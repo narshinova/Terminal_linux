@@ -30,14 +30,11 @@
 12) Выйти из папки на уровень выше<br>
     `cd ..`
 13) переместить любые 2 файла, которые вы создали, в любую другую папку.<br>
-    `mv /c/Users/user/QA/p1/p2/{t1.txt,t2.txt} /c/Users/user/QA/p1/p3`<br>
+  `mv /c/Users/user/QA/p1/p2/{t1.txt,t2.txt} /c/Users/user/QA/p1/p3`<br>
 или<br>
-
-    `mv p2/{t1.txt,t2.txt} p3`<br>
-    
+  `mv p2/{t1.txt,t2.txt} p3`<br>
 или<br>
-
-    `mv t1.txt t2.txt p3`<br>
+  `mv t1.txt t2.txt p3`<br>
 14) скопировать любые 2 файла, которые вы создали, в любую другую папку.<br>
    `cp /c/Users/user/QA/p1/p3/{t2.txt,t1.txt} /c/Users/user/QA/p1/p4`<br>
 или<br>
@@ -70,10 +67,9 @@
 <hr>
 <h4>Задание *</h4>
 1) Отправить http запрос на сервер. http://162.55.220.72:5005/terminal-hw-request<br>
-    `curl http://162.55.220.72:5005/terminal-hw-request`<br>
+  `curl http://162.55.220.72:5005/terminal-hw-request`<br>
 После получения ответа сервера, отправить повторный запрос<br>
-
-   `curl http://162.55.220.72:5005/get_method?name=Natali&age=37`<br>
+  `curl http://162.55.220.72:5005/get_method?name=Natali&age=37`<br>
 
 2) Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13<br>
 1.Создать файл:<br>
