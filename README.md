@@ -1,28 +1,29 @@
 # Terminal_linux
-<h1 align="center">Linux terminal (GitBash) commands</h1>
+<h2 align="center">Linux terminal (GitBash) commands</h2>
+
 [HW_1](https://github.com/narshinova/Terminal_linux/blob/main/README.md#hw_1)<br>
 [HW_1 Задание*](https://github.com/narshinova/Terminal_linux/blob/main/README.md#%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-)<br>
 [HW_2](https://github.com/narshinova/Terminal_linux/blob/main/README.md#hw_2)<br>
 
 <h3>HW_1</h3>
 1) Посмотреть где я <br>
-   `pwd`
+   `pwd`<br>
 2) Создать папку<br>
-    `mkdir p1`
+    `mkdir p1`<br>
 3) Зайти в папку<br>
-    `cd p1`
+    `cd p1`<br>
 4) Создать 3 папки<br>
-    `mkdir p2 p3 p4`
+    `mkdir p2 p3 p4`<br>
 5) Зайти в любоую папку<br>
-    `cd p2`
+    `cd p2`<br>
 6) Создать 5 файлов (3 txt, 2 json)<br>
-    `touch t1.txt t2.txt t3.txt j1.json j2.json`
+    `touch t1.txt t2.txt t3.txt j1.json j2.json`<br>
 7) Создать 3 папки<br>
-    `mkdir p5 p6 p7`
+    `mkdir p5 p6 p7`<br>
 8) Вывести список содержимого папки<br>
-    `ls -la`
+    `ls -la`<br>
 9) Открыть любой txt файл<br>
-    `vim t1.txt`
+    `vim t1.txt`<br>
 10) написать туда что-нибудь, любой текст.<br>
    ```
    режим редактирования нажатием i<br>
